@@ -4,3 +4,5 @@ Hello there! 👋
 👩‍💻 I am currently working on my very own website as project for web design class.
 
 Yep... That's it...
+
+[![Štatistiky používateľa Marek Guráň](https://github-readme-stats.vercel.app/api?username=marek-guran)](https://github.com/anuraghazra/github-readme-stats)
