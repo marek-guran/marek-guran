@@ -1,10 +1,10 @@
-Hello there! 👋
+Hello there! 👋\
 
-👨‍🎓 I am university student who loves to code.
-👩‍💻 I am currently working on my very own website as project for web design class.
-I love also music! You can see what I last listened to just below this text!
+👨‍🎓 I am university student who loves to code.\
+👩‍💻 I am currently working on my very own website as project for web design class.\
+🎵 I love also music! You can see what I last listened to just below this text!\
 
-Yep... That's it...
+Yep... That's it...\
 
 ![Last activity on Spotify](https://spotify-recently-played-readme.vercel.app/api?user=emgi2)
 
