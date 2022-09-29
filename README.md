@@ -7,5 +7,3 @@ My current project is this website: https://marek-guran.github.io/
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-![](https://komarev.com/ghpvc/?username=marek-guran&style=flat-square)
