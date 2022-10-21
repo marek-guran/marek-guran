@@ -9,8 +9,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GH_TOKEN }}
-          config_timezone: Europe/Paris
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Bratislava
 
           plugin_lines: yes
 
