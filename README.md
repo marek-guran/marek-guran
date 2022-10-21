@@ -6,4 +6,4 @@ Hello there! 👋
 My current project is this website: https://marek-guran.sk/
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![Metrics](/github-metrics.svg)
