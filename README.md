@@ -5,5 +5,11 @@ Hello there! 👋
 
 My current project is this website: https://marek-guran.sk/
 
+<details> 
+   <summary>My Github Stats</summary> 
+  
+    ![Metrics](/github-metrics.svg)
+  
+   </details>
 
-![Metrics](/github-metrics.svg)
+
