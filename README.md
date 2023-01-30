@@ -1,7 +1,7 @@
 Hello there! 👋
 
 👨‍🎓 I am university student who loves to code.\
-👩‍💻 I am currently working on my very own website as project for web design class. 
+👩‍💻 I am currently learning native Android app development in Kotlin. 
 
 <details> 
    <summary>My Github Stats</summary> 
