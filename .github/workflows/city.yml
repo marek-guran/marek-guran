@@ -15,7 +15,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.skyline.city.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Europe/Bratislava
           base: ""
           plugin_skyline: yes
           plugin_skyline_year: 2023
