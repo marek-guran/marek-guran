@@ -7,7 +7,6 @@ Hello there! 👋
    <summary>My Github Stats</summary> 
   
     ![Metrics](/github-metrics.svg)
-    ![Metrics](metrics.plugin.skyline.city.svg)
   
    </details>
 
