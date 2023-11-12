@@ -5,22 +5,22 @@
 ```kotlin
 fun main() {
     val code = listOf("Kotlin", "Python", "JavaScript", "PHP", "Bash")
-    val mobile = listOf("Android")
+    val mobileDev = listOf("Android")
     val currentOccupation = listOf("3rd year bachelor student", "open for part-time job opportunities [remote]")
-    val onGoingProjects = listOf("Bachelor work - private project")
+    val onGoingProjects = listOf("Bachelor work - private repository for now")
 
-    aboutMe(code, mobile, currentOccupation, onGoingProjects)
+    aboutMe(code, mobileDev, currentOccupation, onGoingProjects)
 }
 
 fun aboutMe(
     code: List<String>,
-    mobile: List<String>,
+    mobileDev: List<String>,
     currentOccupation: List<String>,
     onGoingProjects: List<String>
 ) {
     println("Code: ${code.joinToString()}")
     println("Technologies:")
-    println("   Mobile: ${mobile.joinToString()}")
+    println("   Mobile Development: ${mobileDev.joinToString()}")
     println("Current Occupation: ${currentOccupation.joinToString()}")
     println("On Going Projects: ${onGoingProjects.joinToString()}")
     println("Wish: be able to buy bug spray to spray my codes with")
