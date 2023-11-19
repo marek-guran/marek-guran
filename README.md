@@ -1,6 +1,6 @@
 <h1>Hello there! 👋</h1>
 
-<h3>👨‍🎓 I am university student who loves to code.</h3>
+<h3>👨‍🎓 I am university student who loves to code!</h3>
 
 ```kotlin
 fun main() {
