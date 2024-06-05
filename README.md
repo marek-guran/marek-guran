@@ -7,7 +7,7 @@ fun main() {
     val code = listOf("Kotlin", "Python", "JavaScript", "PHP", "Bash")
     val mobileDev = listOf("Android")
     val currentOccupation = listOf("3rd year bachelor student")
-    val onGoingProjects = listOf("Bachelor work - private repository for now")
+    val onGoingProjects = listOf("Null")
 
     aboutMe(code, mobileDev, currentOccupation, onGoingProjects)
 }
